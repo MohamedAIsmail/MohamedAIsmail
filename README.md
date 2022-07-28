@@ -1,8 +1,9 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--a0VqOvf_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/4a6t7pmm323uaz9rv1rf.png)](https://mohamedaismail.github.io/)
 
 # 💫 About Me:
-- I am currently a Junior at the Faculty of Engineering Systems & Biomedical Department<br>- Currently open for an intern!<br>- Contact me: mohamedaismail214@gmail.com
-
+- I am currently a Junior at the Faculty of Engineering Systems & Biomedical Department <br>
+- Currently open for an `An Intern` or a new `Job Opportunity` :blush: <br>
+- Contact email *mohamedaismail214@gmail.com* 📩
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/MohamedAIsmail214) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohamedismail_22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/MohamedAIsmail214) 
