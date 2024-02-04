@@ -6,11 +6,11 @@
 
 - 🔭 I’m currently a senior at **the Faculty of Engineering Systems & Biomedical Department**
 
-- 👨‍💻 All of my projects are available at [https://mohamedismail.onrender.com/](https://mohamedismail.onrender.com/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://mohamedismail.onrender.com/)
 
 - 📫 How to reach me **mohamed.darwish02@eng-st.cu.edu.eg**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PfKSaLX1NcA0XpoAPfvfPmXkdNyFN_dL/viewhttps://drive.google.com/file/d/1PfKSaLX1NcA0XpoAPfvfPmXkdNyFN_dL/view](https://drive.google.com/file/d/1PfKSaLX1NcA0XpoAPfvfPmXkdNyFN_dL/viewhttps://drive.google.com/file/d/1PfKSaLX1NcA0XpoAPfvfPmXkdNyFN_dL/view)
+- 📄 Know about my experiences [Check my CV](https://drive.google.com/file/d/1PfKSaLX1NcA0XpoAPfvfPmXkdNyFN_dL/view?usp=sharing)
 
 - ⚡ Fun fact **I think I love optimization and automation**
 
