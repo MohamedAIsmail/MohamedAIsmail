@@ -9,10 +9,8 @@
 - 👨‍💻 All of my projects are available at [My Portfolio](https://mohamedismail.onrender.com/)
 
 - 📫 How to reach me **mohamed.darwish02@eng-st.cu.edu.eg**
-
-- 📄 Know about my experiences [Check my CV](https://drive.google.com/file/d/1PfKSaLX1NcA0XpoAPfvfPmXkdNyFN_dL/view?usp=sharing)
-
-- ⚡ Fun fact **I think I love optimization and automation**
+  
+- ⚡ Fun fact about me **I think I love optimization and automation**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
