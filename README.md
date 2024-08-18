@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://mohamedismail.vercel.app/)
 
-- 📫 How to reach me **https://mohamedismail.vercel.app/**
+- 📫 How to reach me **muhammedismaildarwish@gmail.com**
   
 - ⚡ Fun fact about me **I think I love optimization and automation**
 
