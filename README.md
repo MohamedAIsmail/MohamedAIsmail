@@ -4,11 +4,11 @@
 [![MasterHead](https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif)](https://mohamedaismail.github.io/)
 
 
-- 🔭 I’m currently a senior at **the Faculty of Engineering Systems & Biomedical Department**
+- 🔭 I’m a fresh graduate with bachelor's degree with honors in **Electrical Engineering** from **Cairo University** majoring in **Systems & Biomedical Department**.
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://mohamedismail.onrender.com/)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://mohamedismail.vercel.app/)
 
-- 📫 How to reach me **mohamed.darwish02@eng-st.cu.edu.eg**
+- 📫 How to reach me **https://mohamedismail.vercel.app/**
   
 - ⚡ Fun fact about me **I think I love optimization and automation**
 
