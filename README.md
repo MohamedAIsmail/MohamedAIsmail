@@ -25,24 +25,6 @@
 - **Software Engineer** at HealthTOM (Mar 2025 - Present)
 - **Software Engineer** at Ramyro Inc. (Sep 2024 - Mar 2025)
 
-## 🛠️ Projects
-
-### Web-Based Medical Platform
-Built a cloud-based medical imaging platform using microservices architecture for PACS System, AI model inference, and medical reporting
-- `React` `Django` `PostgreSQL` `Docker` `FastAPI` `Microservices`
-
-### PolyClinic Management System (HealU)
-Developed a system to help polyclinics manage their daily operations
-- `React` `NodeJS` `MongoDB` `Microservices`
-
-### Sliding Puzzle Game
-ReactJS sliding puzzle game with limited moves and Node.js backend using A-Star algorithm for instant solutions
-- `React` `BFS` `NodeJS` `TailwindCSS`
-
-### Computer Vision ToolKit
-Application with a collection of Computer Vision algorithms implemented from scratch
-- `C++` `OpenCV` `QT6` `Computer Vision`
-
 ## 💻 Skills
 
 <details>
@@ -66,6 +48,7 @@ Application with a collection of Computer Vision algorithms implemented from scr
 <summary>Backend</summary>
 <p>
 
+![Dotnet](https://img.shields.io/badge/-.NET-43853D?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
