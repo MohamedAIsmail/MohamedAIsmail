@@ -48,7 +48,7 @@
 <summary>Backend</summary>
 <p>
 
-![Dotnet](https://img.shields.io/badge/-.NET-43853D?style=for-the-badge&logo=dotnet&logoColor=white)
+![Dotnet](https://img.shields.io/badge/-.NET%208.0-blueviolet?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
